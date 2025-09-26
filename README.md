@@ -1,6 +1,6 @@
 # laravel-docker
 
-🐳 Generic docker image for Laravel Applications
+🐳 Generic docker image for Laravel Gitlab Workflow
 
 [![Docker Badge](https://img.shields.io/docker/pulls/lorisleiva/laravel-docker)](https://hub.docker.com/r/lorisleiva/laravel-docker/)
 
